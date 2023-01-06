@@ -6,8 +6,8 @@
 
 * [About Me](#about-the-project)
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT Me -->
+## About Me
 
 A junior data scientist with a strong passion to progress in the tech industry. 
 Currently taking multiple online courses, more projects would be coming to this page soon!
